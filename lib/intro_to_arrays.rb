@@ -12,7 +12,7 @@ def first_element(name)
 end  
 
 def third_element(name)
-  return name[0]
+  return name[2]
 end  
 
 def last_element(name)
