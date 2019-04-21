@@ -20,7 +20,7 @@ def last_element(name)
 end  
 
 def first_element_with_array_methods(name)
-  return name 
+  return name.first  
 end
 
 def last_element_with_array_methods(name)
