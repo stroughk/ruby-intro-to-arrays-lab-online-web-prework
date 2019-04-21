@@ -11,3 +11,6 @@ def first_element(name)
   return name[0]
 end  
 
+def third_element(name)
+  return name[0]
+end  
