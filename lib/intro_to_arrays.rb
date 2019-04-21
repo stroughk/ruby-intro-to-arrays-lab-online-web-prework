@@ -24,5 +24,5 @@ def first_element_with_array_methods(name)
 end
 
 def last_element_with_array_methods(name)
-  return (-1)
+  return name.last
 end
