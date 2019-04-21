@@ -14,3 +14,7 @@ end
 def third_element(name)
   return name[0]
 end  
+
+def last_element(name)
+  return name[-1]
+end  
